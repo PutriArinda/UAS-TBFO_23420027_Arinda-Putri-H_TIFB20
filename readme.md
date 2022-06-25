@@ -2,9 +2,9 @@
 
 ### Repository ini dibuat untuk memenuhi proyek UAS TBFO
 
-    Nama    : M. Anang Ma'ruf
-    NIM     : 23420003
-    Prodi   : Teknik Informatika 20 B (Malam)
+    Nama    : Arinda Putri Husaini
+    NIM     : 23420027
+    Prodi   : Teknik Informatika 2020 B (Malam)
 
 <h2> Note : </h2>
 
